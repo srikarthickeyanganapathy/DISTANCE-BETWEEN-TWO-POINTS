@@ -8,7 +8,8 @@ import math in the program
 ### Step 2: 
 take two lists containing the points as the element
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](./formula.png)
+Substitute the values in the distance formula  
+![formula](./formula.png)
 ### Step 4: 
 print the distance with two decimal places
 ### Step 5:
